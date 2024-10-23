@@ -1,0 +1,10 @@
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.exe.config
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.exe
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.AssemblyReference.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Form1.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Properties.Resources.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.GenerateResource.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.exe
+C:\Users\Guido\Desktop\UTN\Laboratorio III\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.pdb

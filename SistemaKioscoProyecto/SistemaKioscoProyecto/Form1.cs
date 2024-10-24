@@ -17,7 +17,7 @@ namespace SistemaKioscoProyecto
         {
             InitializeComponent();
         }
-
+        /*
         private void Form1_Load(object sender, EventArgs e)
         {
             // Llamar al método para cargar los datos al cargar el formulario
@@ -48,7 +48,7 @@ namespace SistemaKioscoProyecto
         private void CargarMails()
         {
             // Cadena de conexión a la base de datos
-            string connectionString = @"Server=DESKTOP-D071EVB\SQLEXPRESS;Database=BBDD_KioscoLab3;Integrated Security=True;";
+            string connectionString = "server =.\\SQLEXPRESS; database = BBDD_KioscoLab3; integrated security = true";
 
             // Consulta SQL para obtener todos los registros de la tabla Usuario
             string query = "SELECT Email FROM Usuario";
@@ -104,5 +104,7 @@ namespace SistemaKioscoProyecto
                 }
             }
         }
+        */
     }
+        
 }

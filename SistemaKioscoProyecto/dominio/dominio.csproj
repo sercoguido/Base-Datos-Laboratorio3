@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Categoria.cs" />
+    <Compile Include="Ciudad.cs" />
     <Compile Include="Genero.cs" />
     <Compile Include="Marca.cs" />
     <Compile Include="Nacionalidad.cs" />

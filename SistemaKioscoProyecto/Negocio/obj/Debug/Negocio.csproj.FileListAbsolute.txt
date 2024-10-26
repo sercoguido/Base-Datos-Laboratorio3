@@ -1,0 +1,9 @@
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\bin\Debug\dominio.dll
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\bin\Debug\dominio.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\Negocio\obj\Debug\Negocio.pdb

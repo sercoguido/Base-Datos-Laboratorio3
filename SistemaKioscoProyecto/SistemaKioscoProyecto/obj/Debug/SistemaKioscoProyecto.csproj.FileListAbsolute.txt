@@ -18,3 +18,18 @@ C:\Users\bonfr\Desktop\REPO BBDD -LABO3\Base-Datos-Laboratorio3\SistemaKioscoPro
 C:\Users\bonfr\Desktop\REPO BBDD -LABO3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.CoreCompileInputs.cache
 C:\Users\bonfr\Desktop\REPO BBDD -LABO3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.exe
 C:\Users\bonfr\Desktop\REPO BBDD -LABO3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.exe.config
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.exe
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.AssemblyReference.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Properties.Resources.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.GenerateResource.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.exe
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\dominio.dll
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\Negocio.dll
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\dominio.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\Negocio.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaK.B9CC0C86.Up2Date
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Login.resources

@@ -1,0 +1,6 @@
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\dominio\bin\Debug\dominio.dll
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\dominio\bin\Debug\dominio.pdb
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\dominio\obj\Debug\dominio.dll
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\Base-Datos-Laboratorio3\SistemaKioscoProyecto\dominio\obj\Debug\dominio.pdb

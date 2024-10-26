@@ -31,5 +31,7 @@ namespace Negocio
             comando.CommandType = System.Data.CommandType.Text;
             comando.CommandText = consulta;
         }
+
+
     }
 }

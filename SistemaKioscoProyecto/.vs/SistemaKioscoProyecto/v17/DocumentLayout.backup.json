@@ -11,23 +11,23 @@
       "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|c:\\users\\bonfr\\desktop\\repo bbdd -labo3\\base-datos-laboratorio3\\sistemakioscoproyecto\\dominio\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|solutionrelative:dominio\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|c:\\users\\bonfr\\desktop\\repo bbdd -labo3\\base-datos-laboratorio3\\sistemakioscoproyecto\\dominio\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|solutionrelative:dominio\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|c:\\users\\bonfr\\desktop\\repo bbdd -labo3\\base-datos-laboratorio3\\sistemakioscoproyecto\\dominio\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|solutionrelative:dominio\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|c:\\users\\bonfr\\desktop\\repo bbdd -labo3\\base-datos-laboratorio3\\sistemakioscoproyecto\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|c:\\users\\bonfr\\desktop\\repo bbdd -labo3\\base-datos-laboratorio3\\sistemakioscoproyecto\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,9 +46,9 @@
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\AccesoDatos.cs",
-              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\AccesoDatos.cs*",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T15:55:26.098Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "dominio\\Nacionalidad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:47:06.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:47:06.88Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "dominio\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:44:18.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:44:18.651Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "dominio\\Usuarios.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:37:10.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:37:10.748Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "dominio\\Marca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:34:38.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:34:38.644Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "dominio\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T01:00:39.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T01:00:39.316Z"
             },
             {
               "$type": "Document",
@@ -126,7 +121,7 @@
               "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Form1.cs",
               "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Form1.cs",
               "RelativeToolTip": "SistemaKioscoProyecto\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T22:59:41.776Z",
               "EditorCaption": ""

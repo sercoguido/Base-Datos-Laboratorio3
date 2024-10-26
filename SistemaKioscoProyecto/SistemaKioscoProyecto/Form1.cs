@@ -17,7 +17,7 @@ namespace SistemaKioscoProyecto
         {
             InitializeComponent();
         }
-        /*
+        
         private void Form1_Load(object sender, EventArgs e)
         {
             // Llamar al método para cargar los datos al cargar el formulario
@@ -104,7 +104,7 @@ namespace SistemaKioscoProyecto
                 }
             }
         }
-        */
+        
     }
         
 }

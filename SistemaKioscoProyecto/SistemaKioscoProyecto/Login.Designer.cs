@@ -50,7 +50,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(156, 47);
+            this.label1.Location = new System.Drawing.Point(324, 28);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(32, 13);
             this.label1.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(264, 139);
+            this.button1.Location = new System.Drawing.Point(264, 171);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(129, 46);
             this.button1.TabIndex = 2;
@@ -76,16 +76,17 @@
             // 
             // TbContra
             // 
-            this.TbContra.Location = new System.Drawing.Point(205, 81);
+            this.TbContra.Location = new System.Drawing.Point(205, 114);
             this.TbContra.Name = "TbContra";
             this.TbContra.Size = new System.Drawing.Size(274, 20);
             this.TbContra.TabIndex = 5;
+            this.TbContra.UseSystemPasswordChar = true;
             this.TbContra.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(138, 84);
+            this.label2.Location = new System.Drawing.Point(309, 97);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(61, 13);
             this.label2.TabIndex = 4;
@@ -95,7 +96,7 @@
             // ErrMail
             // 
             this.ErrMail.AutoSize = true;
-            this.ErrMail.Location = new System.Drawing.Point(206, 65);
+            this.ErrMail.Location = new System.Drawing.Point(206, 72);
             this.ErrMail.Name = "ErrMail";
             this.ErrMail.Size = new System.Drawing.Size(0, 13);
             this.ErrMail.TabIndex = 7;
@@ -104,12 +105,12 @@
             // ErrContra
             // 
             this.ErrContra.AutoSize = true;
-            this.ErrContra.Location = new System.Drawing.Point(206, 104);
+            this.ErrContra.Location = new System.Drawing.Point(207, 144);
             this.ErrContra.Name = "ErrContra";
             this.ErrContra.Size = new System.Drawing.Size(0, 13);
             this.ErrContra.TabIndex = 8;
             // 
-            // Form1
+            // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -122,7 +123,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
-            this.Name = "Form1";
+            this.Name = "Login";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

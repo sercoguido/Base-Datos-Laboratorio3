@@ -16,5 +16,11 @@ namespace SistemaKioscoProyecto
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            AgregarVenta agregarVentaForm = new AgregarVenta();
+            agregarVentaForm.Show();
+        }
     }
 }

@@ -44,6 +44,7 @@
     <Compile Include="Categoria.cs" />
     <Compile Include="Ciudad.cs" />
     <Compile Include="Genero.cs" />
+    <Compile Include="Item_Venta.cs" />
     <Compile Include="Marca.cs" />
     <Compile Include="Nacionalidad.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

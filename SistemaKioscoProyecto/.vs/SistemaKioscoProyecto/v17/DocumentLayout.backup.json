@@ -1,46 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|solutionrelative:negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|c:\\users\\guido\\desktop\\utn\\laboratorio iii\\nuevo\\base-datos-laboratorio3\\sistemakioscoproyecto\\sistemakioscoproyecto\\agregarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\agregarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|c:\\users\\bonfr\\desktop\\repo bbdd -labo3\\base-datos-laboratorio3\\sistemakioscoproyecto\\negocio\\nacionalidadnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nacionalidadnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\agregarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\agregarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\item_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|solutionrelative:dominio\\item_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\negocio\\item_ventanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|solutionrelative:negocio\\item_ventanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|solutionrelative:dominio\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28071EFE-10AF-4CD3-9DC0-58361B26D25F}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,28 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NacionalidadNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\NacionalidadNegocio.cs",
-              "RelativeDocumentMoniker": "Negocio\\NacionalidadNegocio.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\NacionalidadNegocio.cs",
-              "RelativeToolTip": "Negocio\\NacionalidadNegocio.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAD4v2AAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AgregarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs",
+              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\AgregarVenta.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs",
+              "RelativeToolTip": "SistemaKioscoProyecto\\AgregarVenta.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwCoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T16:21:56.059Z",
+              "WhenOpened": "2024-10-28T15:13:30.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs",
+              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\AgregarVenta.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\Base-Datos-Laboratorio3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Base-Datos-Laboratorio3\\Base-Datos-Laboratorio3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:13:28.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item_VentaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\Item_VentaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Item_VentaNegocio.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\Item_VentaNegocio.cs",
+              "RelativeToolTip": "Negocio\\Item_VentaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:11:32.036Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Item_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\Item_Venta.cs",
+              "RelativeDocumentMoniker": "dominio\\Item_Venta.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\Item_Venta.cs",
+              "RelativeToolTip": "dominio\\Item_Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:10:28.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Ciudad.cs",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\Ciudad.cs",
               "RelativeDocumentMoniker": "dominio\\Ciudad.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\Ciudad.cs",
               "RelativeToolTip": "dominio\\Ciudad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,23 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MarcaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\MarcaNegocio.cs",
-              "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\MarcaNegocio.cs",
-              "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAD4v1IAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:56:41.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CategoriaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\CategoriaNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\CategoriaNegocio.cs",
               "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAwB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,74 +114,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Principal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Principal.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Principal.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Principal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Principal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:30:19.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Program.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Program.cs",
-              "RelativeToolTip": "SistemaKioscoProyecto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:13:22.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioNEGOCIO.cs",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\UsuarioNEGOCIO.cs",
-              "RelativeDocumentMoniker": "Negocio\\UsuarioNEGOCIO.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\UsuarioNEGOCIO.cs",
-              "RelativeToolTip": "Negocio\\UsuarioNEGOCIO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:09:59.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Login.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Login.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Login.cs [Design]",
-              "RelativeToolTip": "SistemaKioscoProyecto\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-10-26T14:56:38.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AccesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\nuevo\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\Negocio\\AccesoDatos.cs",
               "RelativeToolTip": "Negocio\\AccesoDatos.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T15:55:26.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Login.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Login.cs",
-              "ToolTip": "C:\\Users\\bonfr\\Desktop\\REPO BBDD -LABO3\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Login.cs",
-              "RelativeToolTip": "SistemaKioscoProyecto\\Login.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-10-23T22:59:41.776Z"
             }
           ]
         }

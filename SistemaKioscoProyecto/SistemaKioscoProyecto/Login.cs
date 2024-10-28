@@ -29,10 +29,11 @@ namespace SistemaKioscoProyecto
 
         private void button1_Click(object sender, EventArgs e)
         {
+            UsuarioNegocio usuarioNegocio = new UsuarioNegocio();
             string EmailCargado = TbEmail.Text;
             string ContraCargada = TbContra.Text;
 
-                int resultado = VerificarEmailYContrasena(EmailCargado, ContraCargada);
+                int resultado = usuarioNegocio.VerificarEmailYContrasena(EmailCargado, ContraCargada);
 
                 switch (resultado)
                 {
@@ -46,7 +47,6 @@ namespace SistemaKioscoProyecto
                     case 2:
                     Principal principalForm = new Principal();
 
-                    // Muestra el formulario Principal
                     principalForm.Show();
 
                     break;
@@ -89,28 +89,23 @@ namespace SistemaKioscoProyecto
 
 
 
-        //////////////////////////////////ESTO VA EN NEGOCIO, SACAR DE ACÁ
+        //////////////////////////////////ESTO ELIMINAR LUEGO, ES PRUEBA
         private void CargarMails()
         {
-            // Cadena de conexión a la base de datos
             string connectionString = "server =.\\SQLEXPRESS; database = BBDD_KioscoLab3; integrated security = true";
 
-            // Consulta SQL para obtener todos los registros de la tabla Usuario
             string query = "SELECT Email FROM Usuario";
 
-            // Usamos SqlConnection y SqlDataAdapter para conectarnos y obtener los datos
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 try
                 {
                     connection.Open();
 
-                    // Usamos SqlDataAdapter para ejecutar la consulta y llenar un DataTable
                     SqlDataAdapter dataAdapter = new SqlDataAdapter(query, connection);
                     DataTable dataTable = new DataTable();
                     dataAdapter.Fill(dataTable);
 
-                    // Mostrar los datos en el DataGridView
                     dataGridView1.DataSource = dataTable;
                 }
                 catch (Exception ex)
@@ -121,85 +116,7 @@ namespace SistemaKioscoProyecto
         }
 
 
-
-        //ESTO VA EN NEGOCIO, SACAR DE ACÁ
-        private void VerificaExistenciaMail()
-        {
-            // Cadena de conexión a la base de datos
-            string connectionString = @"Server=DESKTOP-D071EVB\SQLEXPRESS;Database=BBDD_KioscoLab3;Integrated Security=True;";
-
-            // Consulta SQL para obtener todos los registros de la tabla Usuario
-            string query = "SELECT Email FROM Usuario";
-
-            // Usamos SqlConnection y SqlDataAdapter para conectarnos y obtener los datos
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                try
-                {
-                    connection.Open();
-
-                    // Usamos SqlDataAdapter para ejecutar la consulta y llenar un DataTable
-                    SqlDataAdapter dataAdapter = new SqlDataAdapter(query, connection);
-                    DataTable dataTable = new DataTable();
-                    dataAdapter.Fill(dataTable);
-
-                    // Mostrar los datos en el DataGridView
-                    dataGridView1.DataSource = dataTable;
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Error al conectar a la base de datos: " + ex.Message);
-                }
-            }
-        }
-
-        public int VerificarEmailYContrasena(string email, string contrasenia)
-        {
-            SqlConnection conexion = new SqlConnection();
-            SqlCommand comando = new SqlCommand();
-
-            try
-            {
-                conexion.ConnectionString = "server=.\\SQLEXPRESS; database=BBDD_KioscoLab3; integrated security=true";
-                comando.CommandType = System.Data.CommandType.Text;
-
-                comando.CommandText = "SELECT CASE " +
-                                      "WHEN Email = @Email AND Contrasenia = @Contrasenia THEN 2 " +
-                                      "WHEN Email = @Email THEN 1 " +
-                                      "ELSE 0 " +
-                                      "END " +
-                                      "FROM Usuario " +
-                                      "WHERE Email = @Email;";
-                comando.Parameters.AddWithValue("@Email", email);
-                comando.Parameters.AddWithValue("@Contrasenia", contrasenia);
-                comando.Connection = conexion;
-
-                conexion.Open();
-
-                object resultObj = comando.ExecuteScalar();
-
-                if (resultObj != null)
-                {
-                    int result = (int)resultObj;
-                    return result;
-                }
-                else
-                {
-                    return 0;
-                }
-            }
-            catch (Exception ex)
-            {
-                throw ex;
-            }
-            finally
-            {
-                if (conexion.State == System.Data.ConnectionState.Open)
-                {
-                    conexion.Close();
-                }
-            }
-        }
+        
 
 
         private void label4_Click(object sender, EventArgs e)

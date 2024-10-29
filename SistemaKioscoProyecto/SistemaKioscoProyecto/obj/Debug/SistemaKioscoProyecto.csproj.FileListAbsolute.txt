@@ -86,3 +86,6 @@ C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKiosco
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.pdb
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.AgregarArticulos.resources
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Articulos.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.ModificarArticulos.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.EliminarArticulos.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.RestablecerArticuloscs.resources

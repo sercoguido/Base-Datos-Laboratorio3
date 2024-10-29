@@ -16,9 +16,10 @@ namespace dominio
         public int IdCategoria { get; set; }
         public int IdMarca { get; set; }
         public int IdProveedor { get; set; }
+        public string Descripcion { get; set; } 
+        public bool Estado { get; set; }
 
-        // Constructor opcional para inicializar el objeto fácilmente
-        public Articulo(int idArticulo, string nombre, int stock, decimal precio, int idCategoria, int idMarca, int idProveedor)
+        public Articulo(int idArticulo, string nombre, int stock, decimal precio, int idCategoria, int idMarca, int idProveedor, string descripcion, bool estado)
         {
             IdArticulo = idArticulo;
             Nombre = nombre;
@@ -27,9 +28,11 @@ namespace dominio
             IdCategoria = idCategoria;
             IdMarca = idMarca;
             IdProveedor = idProveedor;
+            Descripcion = descripcion;
+            Estado = estado;
         }
 
-        // Constructor vacío
         public Articulo() { }
     }
+
 }

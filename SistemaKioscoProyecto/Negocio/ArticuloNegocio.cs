@@ -8,6 +8,44 @@ namespace Negocio
 {
     public class ArticuloNegocio
     {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ///ESTO POR OTRO LADO -----------------------------------------
         public bool PuedeRestarStock(int idArticulo, int cantidad)
         {
             AccesoDatos datos = new AccesoDatos();

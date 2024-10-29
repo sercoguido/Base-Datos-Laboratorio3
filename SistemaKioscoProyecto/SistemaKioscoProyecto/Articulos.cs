@@ -10,23 +10,17 @@ using System.Windows.Forms;
 
 namespace SistemaKioscoProyecto
 {
-    public partial class Principal : Form
+    public partial class Articulos : Form
     {
-        public Principal()
+        public Articulos()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            AgregarVenta agregarVenta = new AgregarVenta();
-            agregarVenta.Show();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Articulos articulos = new Articulos();
-            articulos.Show();
+            AgregarArticulos agregarArticulos = new AgregarArticulos();
+            agregarArticulos.Show();
         }
     }
 }

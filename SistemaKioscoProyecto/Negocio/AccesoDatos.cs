@@ -26,9 +26,9 @@ namespace Negocio
             comando = new SqlCommand();
         }
 
-        public void setearConsulta(string consulta)
+        public void setearConsulta(string consulta, System.Data.CommandType tipoComando = System.Data.CommandType.Text)
         {
-            comando.CommandType = System.Data.CommandType.Text;
+            comando.CommandType = tipoComando;
             comando.CommandText = consulta;
         }
         public void ejecutarLectura()
@@ -61,6 +61,7 @@ namespace Negocio
                 throw ex;
             }
         }
+
 
         public void setearParametro(string nombre, object valor)
         {

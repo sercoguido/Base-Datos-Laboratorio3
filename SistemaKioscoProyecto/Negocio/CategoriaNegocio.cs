@@ -1,9 +1,6 @@
-﻿using System;
+﻿using dominio;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using dominio;
 
 namespace Negocio
 {
@@ -11,8 +8,8 @@ namespace Negocio
     {
         public List<Categoria> listar()
         {
-            List<Categoria> lista=new List<Categoria>();
-            AccesoDatos datos= new AccesoDatos();
+            List<Categoria> lista = new List<Categoria>();
+            AccesoDatos datos = new AccesoDatos();
 
             try
             {
@@ -30,7 +27,7 @@ namespace Negocio
                 datos.cerrarConexion();
                 return lista;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
@@ -38,7 +35,7 @@ namespace Negocio
 
         public void Agregar(Categoria nuevo)
         {
-            AccesoDatos datos= new AccesoDatos();
+            AccesoDatos datos = new AccesoDatos();
 
             try
             {
@@ -46,7 +43,7 @@ namespace Negocio
                 datos.setearParametro("@nombre", nuevo.Nombre);
                 datos.ejecutarAccion();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
@@ -58,7 +55,7 @@ namespace Negocio
 
         public void Modificar(Categoria modificar)
         {
-            AccesoDatos datos= new AccesoDatos();
+            AccesoDatos datos = new AccesoDatos();
 
             try
             {
@@ -68,7 +65,7 @@ namespace Negocio
 
                 datos.ejecutarAccion();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }

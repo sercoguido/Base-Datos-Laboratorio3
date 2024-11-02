@@ -11,44 +11,42 @@ using System.Windows.Forms;
 
 namespace SistemaKioscoProyecto
 {
-    public partial class RestablecerArticuloscs : Form
+    public partial class EliminarUsuario : Form
     {
-        public RestablecerArticuloscs()
+        public EliminarUsuario()
         {
             InitializeComponent();
         }
 
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Tb_IdArticuloEliminar_Click(object sender, EventArgs e)
         {
-            RestablecerArticulo();
+            BajaUsuarioLogica();
         }
-        public void RestablecerArticulo()
+
+        public void BajaUsuarioLogica()
         {
             AccesoDatos datos = new AccesoDatos();
 
             try
             {
-                if (int.TryParse(Tb_IdArticulo.Text, out int idArticulo))
-                {
-                    datos.setearConsulta("EXEC RestablecerArticulo @Id_Articulo", System.Data.CommandType.Text);
 
-                    datos.setearParametro("@Id_Articulo", idArticulo);
+                if (int.TryParse(Tb_IdUsuario.Text, out int idUsuario))
+                {
+                    datos.setearConsulta("EXEC BajaUsuarioLogica @Id_Usuario", System.Data.CommandType.Text);
+
+                    datos.setearParametro("@Id_Usuario", idUsuario);
+
                     datos.ejecutarAccion();
-                    MessageBox.Show("Artículo restablecido con éxito.");
+                    MessageBox.Show("Usuario dado de baja lógicamente con éxito.");
                 }
                 else
                 {
-                    MessageBox.Show("Por favor, ingresa un ID de artículo válido.");
+                    MessageBox.Show("Por favor, ingresa un ID de usuario válido.");
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ocurrió un error al intentar restablecer el artículo: " + ex.Message);
+                MessageBox.Show("Ocurrió un error al intentar dar de baja el usuario: " + ex.Message);
             }
             finally
             {

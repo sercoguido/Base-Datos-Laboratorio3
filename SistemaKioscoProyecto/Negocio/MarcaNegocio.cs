@@ -1,12 +1,6 @@
-﻿using System;
+﻿using dominio;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
-using dominio;
 
 namespace Negocio
 {
@@ -14,7 +8,7 @@ namespace Negocio
     {
         public List<Marca> listar()
         {
-            List<Marca> lista= new List<Marca>();
+            List<Marca> lista = new List<Marca>();
             AccesoDatos datos = new AccesoDatos();
 
             try
@@ -32,7 +26,7 @@ namespace Negocio
                 }
                 return lista;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
@@ -44,7 +38,7 @@ namespace Negocio
 
         public void Agregar(Marca nuevo)
         {
-            AccesoDatos datos= new AccesoDatos();
+            AccesoDatos datos = new AccesoDatos();
 
             try
             {
@@ -52,7 +46,7 @@ namespace Negocio
                 datos.setearParametro("@nombre", nuevo.Nombre);
                 datos.ejecutarAccion();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
@@ -64,7 +58,7 @@ namespace Negocio
 
         public void Modificar(Marca modificar)
         {
-            AccesoDatos datos=new AccesoDatos();
+            AccesoDatos datos = new AccesoDatos();
 
             try
             {
@@ -74,7 +68,7 @@ namespace Negocio
 
                 datos.ejecutarAccion();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
@@ -86,7 +80,7 @@ namespace Negocio
 
         public void Eliminar(int id)
         {
-            AccesoDatos datos= new AccesoDatos();
+            AccesoDatos datos = new AccesoDatos();
 
             try
             {

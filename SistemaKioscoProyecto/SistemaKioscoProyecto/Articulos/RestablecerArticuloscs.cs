@@ -1,19 +1,12 @@
 ﻿using Negocio;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace SistemaKioscoProyecto
 {
-    public partial class EliminarArticulos : Form
+    public partial class RestablecerArticuloscs : Form
     {
-        public EliminarArticulos()
+        public RestablecerArticuloscs()
         {
             InitializeComponent();
         }
@@ -23,12 +16,11 @@ namespace SistemaKioscoProyecto
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Tb_IdArticuloEliminar_Click(object sender, EventArgs e)
         {
-            BajaArticuloLogica();
+            RestablecerArticulo();
         }
-
-        public void BajaArticuloLogica()
+        public void RestablecerArticulo()
         {
             AccesoDatos datos = new AccesoDatos();
 
@@ -36,12 +28,11 @@ namespace SistemaKioscoProyecto
             {
                 if (int.TryParse(Tb_IdArticulo.Text, out int idArticulo))
                 {
-                    datos.setearConsulta("EXEC BajaArticuloLogica @Id_Articulo", System.Data.CommandType.Text);
+                    datos.setearConsulta("EXEC RestablecerArticulo @Id_Articulo", System.Data.CommandType.Text);
 
                     datos.setearParametro("@Id_Articulo", idArticulo);
-
                     datos.ejecutarAccion();
-                    MessageBox.Show("Artículo dado de baja lógicamente con éxito.");
+                    MessageBox.Show("Artículo restablecido con éxito.");
                 }
                 else
                 {
@@ -50,7 +41,7 @@ namespace SistemaKioscoProyecto
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ocurrió un error al intentar dar de baja el artículo: " + ex.Message);
+                MessageBox.Show("Ocurrió un error al intentar restablecer el artículo: " + ex.Message);
             }
             finally
             {
@@ -58,7 +49,7 @@ namespace SistemaKioscoProyecto
             }
         }
 
-        private void EliminarArticulos_Load(object sender, EventArgs e)
+        private void Tb_IdArticulo_TextChanged(object sender, EventArgs e)
         {
 
         }

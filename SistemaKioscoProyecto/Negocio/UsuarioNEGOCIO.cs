@@ -1,18 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.SqlClient;
-using System.Configuration;
-using dominio;
-using System.Data;
 
 namespace Negocio
 {
     public class UsuarioNegocio
     {
-        
+
 
         public int VerificarEmailYContrasena(string email, string contrasenia)
         {

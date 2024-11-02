@@ -1,16 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using Negocio;
+using System;
 using System.Data;
 using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
-using dominio;
-using Negocio;
 
 namespace SistemaKioscoProyecto
 {
@@ -20,7 +12,7 @@ namespace SistemaKioscoProyecto
         {
             InitializeComponent();
         }
-        
+
         private void Form1_Load(object sender, EventArgs e)
         {
             // Llamar al método para cargar los datos al cargar el formulario
@@ -33,24 +25,24 @@ namespace SistemaKioscoProyecto
             string EmailCargado = TbEmail.Text;
             string ContraCargada = TbContra.Text;
 
-                int resultado = usuarioNegocio.VerificarEmailYContrasena(EmailCargado, ContraCargada);
+            int resultado = usuarioNegocio.VerificarEmailYContrasena(EmailCargado, ContraCargada);
 
-                switch (resultado)
-                {
-                    case 0:
-                        ErrMail.Text = "El mail ingresado no se encuentra en nuestra Base de datos.";
+            switch (resultado)
+            {
+                case 0:
+                    ErrMail.Text = "El mail ingresado no se encuentra en nuestra Base de datos.";
                     break;
-                    case 1:
-                        ErrMail.Text = "";
-                        ErrContra.Text = "Contraseña no coincide.";
-                        break;
-                    case 2:
+                case 1:
+                    ErrMail.Text = "";
+                    ErrContra.Text = "Contraseña no coincide.";
+                    break;
+                case 2:
                     Principal principalForm = new Principal();
 
                     principalForm.Show();
 
                     break;
-                
+
             }
 
 
@@ -116,13 +108,18 @@ namespace SistemaKioscoProyecto
         }
 
 
-        
+
 
 
         private void label4_Click(object sender, EventArgs e)
         {
 
         }
+
+        private void TbEmail_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
-        
+
 }

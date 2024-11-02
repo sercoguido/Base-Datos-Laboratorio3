@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
-namespace dominio
+﻿namespace dominio
 {
     public class Articulo
     {
@@ -16,7 +9,7 @@ namespace dominio
         public int IdCategoria { get; set; }
         public int IdMarca { get; set; }
         public int IdProveedor { get; set; }
-        public string Descripcion { get; set; } 
+        public string Descripcion { get; set; }
         public bool Estado { get; set; }
 
         public Articulo(int idArticulo, string nombre, int stock, decimal precio, int idCategoria, int idMarca, int idProveedor, string descripcion, bool estado)

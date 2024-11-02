@@ -52,10 +52,10 @@
     <Compile Include="AgregarVenta.Designer.cs">
       <DependentUpon>AgregarVenta.cs</DependentUpon>
     </Compile>
-    <Compile Include="AgregarArticulos.cs">
+    <Compile Include="Articulos\AgregarArticulos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AgregarArticulos.Designer.cs">
+    <Compile Include="Articulos\AgregarArticulos.Designer.cs">
       <DependentUpon>AgregarArticulos.cs</DependentUpon>
     </Compile>
     <Compile Include="Articulos.cs">
@@ -64,17 +64,35 @@
     <Compile Include="Articulos.Designer.cs">
       <DependentUpon>Articulos.cs</DependentUpon>
     </Compile>
-    <Compile Include="EliminarArticulos.cs">
+    <Compile Include="Articulos\EliminarArticulos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EliminarArticulos.Designer.cs">
+    <Compile Include="Articulos\EliminarArticulos.Designer.cs">
       <DependentUpon>EliminarArticulos.cs</DependentUpon>
     </Compile>
-    <Compile Include="ModificarArticulos.cs">
+    <Compile Include="Articulos\ModificarArticulos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ModificarArticulos.Designer.cs">
+    <Compile Include="Articulos\ModificarArticulos.Designer.cs">
       <DependentUpon>ModificarArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario\ModificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario\ModificarUsuario.Designer.cs">
+      <DependentUpon>ModificarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario\RestablecerUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario\RestablecerUsuario.Designer.cs">
+      <DependentUpon>RestablecerUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario\EliminarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario\EliminarUsuario.Designer.cs">
+      <DependentUpon>EliminarUsuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Principal.cs">
       <SubType>Form</SubType>
@@ -90,28 +108,40 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RestablecerArticuloscs.cs">
+    <Compile Include="Articulos\RestablecerArticuloscs.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="RestablecerArticuloscs.Designer.cs">
+    <Compile Include="Articulos\RestablecerArticuloscs.Designer.cs">
       <DependentUpon>RestablecerArticuloscs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario\AgregarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario\AgregarUsuario.Designer.cs">
+      <DependentUpon>AgregarUsuario.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="AgregarVenta.resx">
       <DependentUpon>AgregarVenta.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AgregarArticulos.resx">
+    <EmbeddedResource Include="Articulos\AgregarArticulos.resx">
       <DependentUpon>AgregarArticulos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Articulos.resx">
       <DependentUpon>Articulos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="EliminarArticulos.resx">
+    <EmbeddedResource Include="Articulos\EliminarArticulos.resx">
       <DependentUpon>EliminarArticulos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ModificarArticulos.resx">
+    <EmbeddedResource Include="Articulos\ModificarArticulos.resx">
       <DependentUpon>ModificarArticulos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
@@ -126,8 +156,23 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="RestablecerArticuloscs.resx">
+    <EmbeddedResource Include="Articulos\RestablecerArticuloscs.resx">
       <DependentUpon>RestablecerArticuloscs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario\AgregarUsuario.resx">
+      <DependentUpon>AgregarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario\EliminarUsuario.resx">
+      <DependentUpon>EliminarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario\ModificarUsuario.resx">
+      <DependentUpon>ModificarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario\RestablecerUsuario.resx">
+      <DependentUpon>RestablecerUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

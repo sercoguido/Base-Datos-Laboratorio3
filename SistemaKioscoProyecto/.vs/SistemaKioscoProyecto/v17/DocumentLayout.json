@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|c:\\users\\guido\\desktop\\utn\\laboratorio iii\\base-datos-laboratorio3\\sistemakioscoproyecto\\sistemakioscoproyecto\\agregararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\agregararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|c:\\users\\guido\\desktop\\utn\\laboratorio iii\\base-datos-laboratorio3\\sistemakioscoproyecto\\sistemakioscoproyecto\\articulos\\modificararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\articulos\\modificararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\agregararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\agregararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|c:\\users\\guido\\desktop\\utn\\laboratorio iii\\base-datos-laboratorio3\\sistemakioscoproyecto\\sistemakioscoproyecto\\articulos\\modificararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\articulos\\modificararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\agregarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\agregarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|c:\\users\\guido\\desktop\\utn\\laboratorio iii\\base-datos-laboratorio3\\sistemakioscoproyecto\\sistemakioscoproyecto\\usuario\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\usuario\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\agregarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\agregarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|c:\\users\\guido\\desktop\\utn\\laboratorio iii\\base-datos-laboratorio3\\sistemakioscoproyecto\\sistemakioscoproyecto\\usuario\\modificarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\usuario\\modificarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\eliminararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\eliminararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\eliminararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\eliminararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\restablecerarticuloscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\restablecerarticuloscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\restablecerarticuloscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\restablecerarticuloscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\sistemakioscoproyecto\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|c:\\users\\guido\\desktop\\utn\\laboratorio iii\\base-datos-laboratorio3\\sistemakioscoproyecto\\sistemakioscoproyecto\\usuario\\modificarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A6647D-E8BE-4FA3-AAD9-A0A63EA5C137}|SistemaKioscoProyecto\\SistemaKioscoProyecto.csproj|solutionrelative:sistemakioscoproyecto\\usuario\\modificarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B5200BE-D63F-401C-8C72-691689FFEFAE}|dominio\\dominio.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\articulocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,135 +34,77 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 210,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AgregarArticulos.cs",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarArticulos.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\AgregarArticulos.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarArticulos.cs",
-              "RelativeToolTip": "SistemaKioscoProyecto\\AgregarArticulos.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAIAwwEIAAAA2AAAAAAAAAA==",
+              "Title": "ModificarArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Articulos\\ModificarArticulos.cs",
+              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Articulos\\ModificarArticulos.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Articulos\\ModificarArticulos.cs",
+              "RelativeToolTip": "SistemaKioscoProyecto\\Articulos\\ModificarArticulos.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:32:56.025Z",
+              "WhenOpened": "2024-11-02T23:50:46.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AgregarArticulos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarArticulos.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\AgregarArticulos.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarArticulos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaKioscoProyecto\\AgregarArticulos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:32:55.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgregarVenta.cs",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\AgregarVenta.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs",
-              "RelativeToolTip": "SistemaKioscoProyecto\\AgregarVenta.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAD4vyEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:32:48.28Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AgregarVenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\AgregarVenta.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\AgregarVenta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaKioscoProyecto\\AgregarVenta.cs [Dise\u00F1o]",
+              "Title": "ModificarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Usuario\\ModificarUsuario.cs",
+              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Usuario\\ModificarUsuario.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Usuario\\ModificarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaKioscoProyecto\\Usuario\\ModificarUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:32:46.932Z"
+              "WhenOpened": "2024-11-02T23:50:22.958Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EliminarArticulos.cs",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\EliminarArticulos.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\EliminarArticulos.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\EliminarArticulos.cs",
-              "RelativeToolTip": "SistemaKioscoProyecto\\EliminarArticulos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Title": "ModificarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Usuario\\ModificarUsuario.cs",
+              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Usuario\\ModificarUsuario.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Usuario\\ModificarUsuario.cs",
+              "RelativeToolTip": "SistemaKioscoProyecto\\Usuario\\ModificarUsuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:32:39.228Z"
+              "WhenOpened": "2024-11-02T23:50:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Usuario\\AgregarUsuario.cs",
+              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Usuario\\AgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Usuario\\AgregarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaKioscoProyecto\\Usuario\\AgregarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:48:39.275Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarArticulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Articulos\\ModificarArticulos.cs",
+              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Articulos\\ModificarArticulos.cs",
+              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Articulos\\ModificarArticulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaKioscoProyecto\\Articulos\\ModificarArticulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:46:03.673Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EliminarArticulos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\EliminarArticulos.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\EliminarArticulos.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\EliminarArticulos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaKioscoProyecto\\EliminarArticulos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:32:38.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RestablecerArticuloscs.cs",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\RestablecerArticuloscs.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\RestablecerArticuloscs.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\RestablecerArticuloscs.cs",
-              "RelativeToolTip": "SistemaKioscoProyecto\\RestablecerArticuloscs.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwCcAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:28:15.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RestablecerArticuloscs.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\RestablecerArticuloscs.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\RestablecerArticuloscs.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\RestablecerArticuloscs.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaKioscoProyecto\\RestablecerArticuloscs.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:28:06.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Articulos.cs",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Articulos.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Articulos.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Articulos.cs",
-              "RelativeToolTip": "SistemaKioscoProyecto\\Articulos.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAawB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:22:54.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Principal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Principal.cs",
-              "RelativeDocumentMoniker": "SistemaKioscoProyecto\\Principal.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\SistemaKioscoProyecto\\Principal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaKioscoProyecto\\Principal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:22:48.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Articulocs.cs",
               "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\Articulocs.cs",
               "RelativeDocumentMoniker": "dominio\\Articulocs.cs",
@@ -190,11 +112,12 @@
               "RelativeToolTip": "dominio\\Articulocs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:39:10.647Z"
+              "WhenOpened": "2024-10-28T19:39:10.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Item_Venta.cs",
               "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Laboratorio III\\Base-Datos-Laboratorio3\\SistemaKioscoProyecto\\dominio\\Item_Venta.cs",
               "RelativeDocumentMoniker": "dominio\\Item_Venta.cs",
@@ -202,7 +125,8 @@
               "RelativeToolTip": "dominio\\Item_Venta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:10:28.462Z"
+              "WhenOpened": "2024-10-28T15:10:28.462Z",
+              "EditorCaption": ""
             }
           ]
         }

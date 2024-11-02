@@ -1,14 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using dominio;
-using Negocio;
 
 namespace SistemaKioscoProyecto
 {
@@ -39,54 +30,7 @@ namespace SistemaKioscoProyecto
 
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            // Asegúrate de que los valores se puedan convertir
-            if (int.TryParse(Tb_Articulo.Text.Trim(), out int articulo) && int.TryParse(Tb_Cantidad.Text.Trim(), out int cantidad))
-            {
-                ArticuloNegocio articuloNegocio = new ArticuloNegocio();
-
-                // Verificar si se puede restar el stock
-                if (articuloNegocio.PuedeRestarStock(articulo, cantidad))
-                {
-                    if (ArticuloYaAgregado(articulo, cantidad, out int filaExistente))
-                    {
-                        int cantidadActual = Convert.ToInt32(dgvItemsVentas.Rows[filaExistente].Cells["Cantidad"].Value);
-                        int nuevaCantidad = cantidadActual + cantidad;
-                        dgvItemsVentas.Rows[filaExistente].Cells["Cantidad"].Value = nuevaCantidad;
-
-                        // Obtener el precio del artículo (asumiendo que tienes un método para esto)
-                        decimal precioArticulo = articuloNegocio.ObtenerPrecioArticulo(articulo);
-
-                        // Actualizar el precio total
-                        decimal nuevoPrecioTotal = nuevaCantidad * precioArticulo;
-                        dgvItemsVentas.Rows[filaExistente].Cells["ValorTotal"].Value = nuevoPrecioTotal;
-                    }
-                    else
-                    {
-                        // Obtener el nombre y el precio del artículo
-                        string nombreArticulo = articuloNegocio.ObtenerNombreArticulo(articulo);
-                        decimal precioArticulo = articuloNegocio.ObtenerPrecioArticulo(articulo);
-
-                        // Agregar el artículo a la venta
-                        AgregarItemVenta(articulo, nombreArticulo, cantidad, precioArticulo);
-                    }
-
-
-                    // Limpiar campos
-                    Tb_Articulo.Text = "";
-                    Tb_Cantidad.Text = "";
-                }
-                else
-                {
-                    MessageBox.Show("No es posible realizar la operación. Stock insuficiente.");
-                }
-            }
-            else
-            {
-                MessageBox.Show("Por favor, ingrese valores válidos para el artículo y la cantidad.");
-            }
-        }
+      
 
 
 

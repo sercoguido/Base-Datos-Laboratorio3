@@ -73,6 +73,7 @@
             this.TbEmail.Name = "TbEmail";
             this.TbEmail.Size = new System.Drawing.Size(274, 20);
             this.TbEmail.TabIndex = 3;
+            this.TbEmail.TextChanged += new System.EventHandler(this.TbEmail_TextChanged);
             // 
             // TbContra
             // 

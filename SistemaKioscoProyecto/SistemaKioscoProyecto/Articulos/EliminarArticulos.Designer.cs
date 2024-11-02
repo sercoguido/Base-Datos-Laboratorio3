@@ -35,7 +35,7 @@
             // 
             // Tb_IdArticulo
             // 
-            this.Tb_IdArticulo.Location = new System.Drawing.Point(124, 60);
+            this.Tb_IdArticulo.Location = new System.Drawing.Point(124, 71);
             this.Tb_IdArticulo.Name = "Tb_IdArticulo";
             this.Tb_IdArticulo.Size = new System.Drawing.Size(517, 20);
             this.Tb_IdArticulo.TabIndex = 34;
@@ -43,7 +43,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(121, 44);
+            this.label4.Location = new System.Drawing.Point(121, 55);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(110, 13);
             this.label4.TabIndex = 33;
@@ -52,7 +52,7 @@
             // 
             // Tb_IdArticuloEliminar
             // 
-            this.Tb_IdArticuloEliminar.Location = new System.Drawing.Point(318, 111);
+            this.Tb_IdArticuloEliminar.Location = new System.Drawing.Point(318, 122);
             this.Tb_IdArticuloEliminar.Name = "Tb_IdArticuloEliminar";
             this.Tb_IdArticuloEliminar.Size = new System.Drawing.Size(116, 30);
             this.Tb_IdArticuloEliminar.TabIndex = 32;
@@ -64,7 +64,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 267);
+            this.ClientSize = new System.Drawing.Size(800, 227);
             this.Controls.Add(this.Tb_IdArticulo);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.Tb_IdArticuloEliminar);

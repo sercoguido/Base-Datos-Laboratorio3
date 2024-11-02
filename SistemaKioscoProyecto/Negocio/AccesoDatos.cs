@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.SqlClient;
-using System.Configuration;
 
 namespace Negocio
 {
@@ -14,11 +9,11 @@ namespace Negocio
         private SqlConnection conexion;
         private SqlCommand comando;
         private SqlDataReader lector;
-        
+
         public SqlDataReader Lector
         {
             get { return lector; }
-        } 
+        }
 
         public AccesoDatos()
         {

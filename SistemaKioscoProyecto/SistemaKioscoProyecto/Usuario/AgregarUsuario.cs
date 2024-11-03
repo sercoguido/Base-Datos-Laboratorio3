@@ -18,9 +18,6 @@ namespace SistemaKioscoProyecto.Usuario
 
 
 
-
-
-
         public void AgregarUsuarios()
         {
             AccesoDatos datos = new AccesoDatos();
@@ -34,7 +31,7 @@ namespace SistemaKioscoProyecto.Usuario
                 datos.setearParametro("@Apellido", Tb_Apellido.Text);
                 datos.setearParametro("@Email", Tb_Email.Text);
                 datos.setearParametro("@FechaNacimiento", DTP_FechaNacimiento.Value);
-                datos.setearParametro("@FechaIngreso", DateTime.Now); // Para la fecha de ingreso, usamos la fecha actual
+                datos.setearParametro("@FechaIngreso", DateTime.Now);
                 datos.setearParametro("@Dni", Tb_Dni.Text);
                 datos.setearParametro("@Id_Nacionalidad", Convert.ToInt32(Tb_IdNacionalidad.Text));
                 datos.setearParametro("@IdGenero", Convert.ToInt32(Tb_IdGenero.Text));

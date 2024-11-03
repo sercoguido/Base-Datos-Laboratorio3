@@ -61,6 +61,7 @@
             this.Tb_Nombre.Name = "Tb_Nombre";
             this.Tb_Nombre.Size = new System.Drawing.Size(517, 20);
             this.Tb_Nombre.TabIndex = 1;
+            this.Tb_Nombre.TextChanged += new System.EventHandler(this.Tb_Nombre_TextChanged);
             // 
             // Tb_Descripcion
             // 
@@ -86,6 +87,7 @@
             this.Tb_Precio.Name = "Tb_Precio";
             this.Tb_Precio.Size = new System.Drawing.Size(517, 20);
             this.Tb_Precio.TabIndex = 7;
+            this.Tb_Precio.TextChanged += new System.EventHandler(this.Tb_Precio_TextChanged);
             // 
             // lbl_Precio
             // 
@@ -95,6 +97,7 @@
             this.lbl_Precio.Size = new System.Drawing.Size(52, 13);
             this.lbl_Precio.TabIndex = 6;
             this.lbl_Precio.Text = "Precio : $";
+            this.lbl_Precio.Click += new System.EventHandler(this.lbl_Precio_Click);
             // 
             // Tb_Stock
             // 
@@ -102,6 +105,7 @@
             this.Tb_Stock.Name = "Tb_Stock";
             this.Tb_Stock.Size = new System.Drawing.Size(517, 20);
             this.Tb_Stock.TabIndex = 5;
+            this.Tb_Stock.TextChanged += new System.EventHandler(this.Tb_Stock_TextChanged);
             // 
             // lbl_Stock
             // 
@@ -111,6 +115,7 @@
             this.lbl_Stock.Size = new System.Drawing.Size(38, 13);
             this.lbl_Stock.TabIndex = 4;
             this.lbl_Stock.Text = "Stock:";
+            this.lbl_Stock.Click += new System.EventHandler(this.lbl_Stock_Click);
             // 
             // Tb_Proveedor
             // 
@@ -118,6 +123,7 @@
             this.Tb_Proveedor.Name = "Tb_Proveedor";
             this.Tb_Proveedor.Size = new System.Drawing.Size(517, 20);
             this.Tb_Proveedor.TabIndex = 13;
+            this.Tb_Proveedor.TextChanged += new System.EventHandler(this.Tb_Proveedor_TextChanged);
             // 
             // label1
             // 
@@ -127,6 +133,7 @@
             this.label1.Size = new System.Drawing.Size(62, 13);
             this.label1.TabIndex = 12;
             this.label1.Text = "Proveedor :";
+            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // Tb_Marca
             // 
@@ -134,6 +141,7 @@
             this.Tb_Marca.Name = "Tb_Marca";
             this.Tb_Marca.Size = new System.Drawing.Size(517, 20);
             this.Tb_Marca.TabIndex = 11;
+            this.Tb_Marca.TextChanged += new System.EventHandler(this.Tb_Marca_TextChanged);
             // 
             // label2
             // 
@@ -143,6 +151,7 @@
             this.label2.Size = new System.Drawing.Size(43, 13);
             this.label2.TabIndex = 10;
             this.label2.Text = "Marca :";
+            this.label2.Click += new System.EventHandler(this.label2_Click_1);
             // 
             // Tb_Categoria
             // 
@@ -150,6 +159,7 @@
             this.Tb_Categoria.Name = "Tb_Categoria";
             this.Tb_Categoria.Size = new System.Drawing.Size(517, 20);
             this.Tb_Categoria.TabIndex = 9;
+            this.Tb_Categoria.TextChanged += new System.EventHandler(this.Tb_Categoria_TextChanged);
             // 
             // label3
             // 
@@ -159,6 +169,7 @@
             this.label3.Size = new System.Drawing.Size(61, 13);
             this.label3.TabIndex = 8;
             this.label3.Text = "Categoria  :";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button1
             // 

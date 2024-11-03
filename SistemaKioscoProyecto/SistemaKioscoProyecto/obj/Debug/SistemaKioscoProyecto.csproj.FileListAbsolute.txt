@@ -94,3 +94,8 @@ C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKiosco
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.EliminarUsuario.resources
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.RestablecerUsuario.resources
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.ModificarUsuario.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marcas.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.AgregarMarca.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.EliminarMarca.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.ModificarMarca.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.RestablecerMarca.resources

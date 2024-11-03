@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Marcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marcas.Designer.cs">
+      <DependentUpon>Marcas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\AgregarMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\AgregarMarca.Designer.cs">
+      <DependentUpon>AgregarMarca.cs</DependentUpon>
+    </Compile>
     <Compile Include="AgregarVenta.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +87,24 @@
     </Compile>
     <Compile Include="Articulos\ModificarArticulos.Designer.cs">
       <DependentUpon>ModificarArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\EliminarMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\EliminarMarca.Designer.cs">
+      <DependentUpon>EliminarMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\ModificarMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\ModificarMarca.Designer.cs">
+      <DependentUpon>ModificarMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\RestablecerMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\RestablecerMarca.Designer.cs">
+      <DependentUpon>RestablecerMarca.cs</DependentUpon>
     </Compile>
     <Compile Include="Usuario\ModificarUsuario.cs">
       <SubType>Form</SubType>
@@ -144,6 +174,21 @@
     <EmbeddedResource Include="Articulos\ModificarArticulos.resx">
       <DependentUpon>ModificarArticulos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Marcas.resx">
+      <DependentUpon>Marcas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\AgregarMarca.resx">
+      <DependentUpon>AgregarMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\EliminarMarca.resx">
+      <DependentUpon>EliminarMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\ModificarMarca.resx">
+      <DependentUpon>ModificarMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\RestablecerMarca.resx">
+      <DependentUpon>RestablecerMarca.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
     </EmbeddedResource>
@@ -197,5 +242,6 @@
       <Name>Negocio</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

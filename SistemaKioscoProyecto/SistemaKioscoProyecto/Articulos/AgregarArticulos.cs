@@ -70,5 +70,60 @@ namespace SistemaKioscoProyecto
                 datos.cerrarConexion();
             }
         }
+
+        private void Tb_Proveedor_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Tb_Marca_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Tb_Categoria_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Tb_Precio_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_Precio_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Tb_Stock_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_Stock_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Tb_Nombre_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

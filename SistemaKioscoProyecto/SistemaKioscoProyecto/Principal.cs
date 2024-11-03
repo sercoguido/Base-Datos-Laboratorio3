@@ -27,5 +27,11 @@ namespace SistemaKioscoProyecto
             Usuarios usuarios = new Usuarios();
             usuarios.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Marcas marcas = new Marcas();
+            marcas.Show();
+        }
     }
 }

@@ -33,5 +33,11 @@ namespace SistemaKioscoProyecto
             Marcas marcas = new Marcas();
             marcas.Show();
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            InformeMarcas informeMarcas = new InformeMarcas();
+            informeMarcas.Show();
+        }
     }
 }

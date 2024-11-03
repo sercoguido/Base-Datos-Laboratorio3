@@ -99,3 +99,4 @@ C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKiosco
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.EliminarMarca.resources
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.ModificarMarca.resources
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.RestablecerMarca.resources
+C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.InformeMarcas.resources

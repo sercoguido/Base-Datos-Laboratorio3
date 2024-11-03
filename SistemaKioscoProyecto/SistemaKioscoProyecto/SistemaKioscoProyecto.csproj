@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Marca\InformeMarcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\InformeMarcas.Designer.cs">
+      <DependentUpon>InformeMarcas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Marcas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -182,6 +188,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Marca\EliminarMarca.resx">
       <DependentUpon>EliminarMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\InformeMarcas.resx">
+      <DependentUpon>InformeMarcas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Marca\ModificarMarca.resx">
       <DependentUpon>ModificarMarca.cs</DependentUpon>

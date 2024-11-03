@@ -43,7 +43,7 @@
             this.lbl_Descripcion = new System.Windows.Forms.Label();
             this.Tb_Nombre = new System.Windows.Forms.TextBox();
             this.lbl_Nombre = new System.Windows.Forms.Label();
-            this.Tb_IdUsuario = new System.Windows.Forms.TextBox();
+            this.Tb_IdArticulo = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -169,13 +169,13 @@
             this.lbl_Nombre.TabIndex = 15;
             this.lbl_Nombre.Text = "Nombre :";
             // 
-            // Tb_IdUsuario
+            // Tb_IdArticulo
             // 
-            this.Tb_IdUsuario.Location = new System.Drawing.Point(174, 42);
-            this.Tb_IdUsuario.Name = "Tb_IdUsuario";
-            this.Tb_IdUsuario.Size = new System.Drawing.Size(517, 20);
-            this.Tb_IdUsuario.TabIndex = 31;
-            this.Tb_IdUsuario.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.Tb_IdArticulo.Location = new System.Drawing.Point(174, 42);
+            this.Tb_IdArticulo.Name = "Tb_IdArticulo";
+            this.Tb_IdArticulo.Size = new System.Drawing.Size(517, 20);
+            this.Tb_IdArticulo.TabIndex = 31;
+            this.Tb_IdArticulo.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label4
             // 
@@ -192,7 +192,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 394);
-            this.Controls.Add(this.Tb_IdUsuario);
+            this.Controls.Add(this.Tb_IdArticulo);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.Tb_Proveedor);
@@ -234,7 +234,7 @@
         private System.Windows.Forms.Label lbl_Descripcion;
         private System.Windows.Forms.TextBox Tb_Nombre;
         private System.Windows.Forms.Label lbl_Nombre;
-        private System.Windows.Forms.TextBox Tb_IdUsuario;
+        private System.Windows.Forms.TextBox Tb_IdArticulo;
         private System.Windows.Forms.Label label4;
     }
 }

@@ -30,43 +30,38 @@ namespace SistemaKioscoProyecto
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ModificarUsuarios();
+            ModificarArticulo();
         }
 
 
 
-        public void ModificarUsuarios()
+        public void ModificarArticulo()
         {
             AccesoDatos datos = new AccesoDatos();
 
             try
             {
-                // Configura la consulta para modificar el usuario
-                datos.setearConsulta("EXEC ModificarUsuario @Id_Usuario, @Contrasenia, @Nombre, @Apellido, @Email, @FechaNacimiento, @FechaIngreso, @Dni, @Id_Nacionalidad, @Id_Genero", System.Data.CommandType.Text);
+                datos.setearConsulta("EXEC ModificarArticulo @Id_Articulo, @Nombre, @Descripcion, @Precio, @Stock, @Id_Marca, @Id_Categoria, @Id_Proveedor", System.Data.CommandType.Text);
 
-                // Establece los parámetros necesarios
-                datos.setearParametro("@Id_Usuario", Convert.ToInt32(Tb_IdUsuario.Text)); // ID del usuario
-                datos.setearParametro("@Contrasenia", Tb_Contrasenia.Text); // Contraseña del usuario
-                datos.setearParametro("@Nombre", Tb_Nombre.Text); // Nombre del usuario
-                datos.setearParametro("@Apellido", Tb_Apellido.Text); // Apellido del usuario
-                datos.setearParametro("@Email", Tb_Email.Text); // Email del usuario
-                datos.setearParametro("@FechaNacimiento", Convert.ToDateTime(Tb_FechaNacimiento.Text)); // Fecha de nacimiento
-                datos.setearParametro("@FechaIngreso", Convert.ToDateTime(Tb_FechaIngreso.Text)); // Fecha de ingreso
-                datos.setearParametro("@Dni", Tb_Dni.Text); // DNI del usuario
-                datos.setearParametro("@Id_Nacionalidad", Convert.ToInt32(Tb_IdNacionalidad.Text)); // ID de nacionalidad
-                datos.setearParametro("@Id_Genero", Convert.ToInt32(Tb_IdGenero.Text)); // ID de género
+                datos.setearParametro("@Id_Articulo", Convert.ToInt32(Tb_IdArticulo.Text));
+                datos.setearParametro("@Nombre", Tb_Nombre.Text);
+                datos.setearParametro("@Descripcion", Tb_Descripcion.Text);
+                datos.setearParametro("@Precio", Convert.ToDecimal(Tb_Precio.Text));
+                datos.setearParametro("@Stock", Convert.ToInt32(Tb_Stock.Text));
+                datos.setearParametro("@Id_Marca", Convert.ToInt32(Tb_Marca.Text));
+                datos.setearParametro("@Id_Categoria", Convert.ToInt32(Tb_Categoria.Text));
+                datos.setearParametro("@Id_Proveedor", Convert.ToInt32(Tb_Proveedor.Text));
 
-                // Ejecuta la acción en la base de datos
                 datos.ejecutarAccion();
-                MessageBox.Show("Usuario modificado con éxito."); // Mensaje de éxito
+                MessageBox.Show("Artículo modificado con éxito.");
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ocurrió un error al intentar modificar el usuario: " + ex.Message); // Manejo de errores
+                MessageBox.Show("Ocurrió un error al intentar modificar el artículo: " + ex.Message);
             }
             finally
             {
-                datos.cerrarConexion(); // Cierra la conexión
+                datos.cerrarConexion();
             }
         }
     }

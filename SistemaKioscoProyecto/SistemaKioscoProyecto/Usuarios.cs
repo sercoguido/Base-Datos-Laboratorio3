@@ -28,5 +28,11 @@ namespace SistemaKioscoProyecto
             RestablecerUsuario restablecerUsuario = new RestablecerUsuario();
             restablecerUsuario.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ModificarUsuario modificarUsuario = new ModificarUsuario();
+            modificarUsuario.Show();
+        }
     }
 }

@@ -100,36 +100,3 @@ C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKiosco
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.ModificarMarca.resources
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.RestablecerMarca.resources
 C:\Users\Guido\Desktop\UTN\Laboratorio III\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.InformeMarcas.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.exe.config
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.exe
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\SistemaKioscoProyecto.pdb
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\dominio.dll
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\Negocio.dll
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\dominio.pdb
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\bin\Debug\Negocio.pdb
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.AssemblyReference.cache
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.AgregarVenta.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.AgregarArticulos.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Articulos.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.EliminarArticulos.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Login.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.ModificarArticulos.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marcas.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.AgregarMarca.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.EliminarMarca.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.InformeMarcas.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.ModificarMarca.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Marca.RestablecerMarca.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Principal.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Properties.Resources.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.RestablecerArticuloscs.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Usuarios.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.Usuario.AgregarUsuario.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.EliminarUsuario.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.ModificarUsuario.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.RestablecerUsuario.resources
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.GenerateResource.cache
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.csproj.CoreCompileInputs.cache
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaK.B9CC0C86.Up2Date
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.exe
-C:\Users\Guido\Desktop\Base-Datos-Laboratorio3\SistemaKioscoProyecto\SistemaKioscoProyecto\obj\Debug\SistemaKioscoProyecto.pdb
